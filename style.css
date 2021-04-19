@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#root{
+    margin-left: 11%;
+    margin-right: 13%;
+    margin-top: 7%;
+    column-gap: 3%;
+}
+
+p{
+    font-weight: 300;
+    font-size: 20px;
+    letter-spacing: -2px;
+}
+
